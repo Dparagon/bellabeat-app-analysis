@@ -1,6 +1,6 @@
 # BELLABEAT APP ANALYSIS 
 
-The second case study project from my Google Data Analytics Professional Course on Coursera.
+The second capstone project from my Google Data Analytics Professional Course.
 
 ### ABOUT BELLABEAT
 
